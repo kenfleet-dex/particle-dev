@@ -1,0 +1,73 @@
+{
+  "site_version": 42,
+  "source_commit": "deebd61767e67cb9814a201aabd1dc7c85c87098",
+  "exported": "2026-10-12",
+  "excluded": [
+    ".git",
+    ".openai/hosting.json",
+    "AGENTS.md",
+    "docs/original-source-README.md"
+  ],
+  "unchanged_source_files": [
+    {
+      "path": "dist/LUCIDE-LICENSE.txt",
+      "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+    },
+    {
+      "path": "dist/app.js",
+      "sha256": "950de91f48f0aa40ebcbe862d38d2be212230ddf76c9f7bacb3e4f55ed535a47"
+    },
+    {
+      "path": "dist/atmosphere.png",
+      "sha256": "7a88571c874ebc5bef2aabcb047b3ba022ec5b4b99b7f3309ca6e9ad29aa9e3f"
+    },
+    {
+      "path": "dist/drawing.html",
+      "sha256": "25b53ac7f4ca2cc1f7defe4025ad7154bb16fc25ff7621a79f11e5658ba9d607"
+    },
+    {
+      "path": "dist/fonts/NotoSans-Bold.ttf",
+      "sha256": "3a08a47daa00cade516425c15c57615aef2fd418ec9811a7b9f465088f92cc05"
+    },
+    {
+      "path": "dist/fonts/NotoSans-Regular.ttf",
+      "sha256": "f5f552c8c5edb61fe6efb824baf4d4de47b1a8689ab4925ff43f7bd6a4ebece5"
+    },
+    {
+      "path": "dist/icons.js",
+      "sha256": "3850874070f78dfc6e86604eb7402d63f66527cf599ffee9274c680c3051991f"
+    },
+    {
+      "path": "dist/index.html",
+      "sha256": "d311f0158b83cba93cf83700d9320464c9f94f7ea3e8e9cac31f2551c6d093cb"
+    },
+    {
+      "path": "dist/part-replace-parts.csv",
+      "sha256": "b86e45105e28ba447535620f18d014f97c0db7fe7c8b532b95136123ef672f8c"
+    },
+    {
+      "path": "dist/polish.css",
+      "sha256": "ad6ddcaf50b2e6d8671534db3eeec4c41409f2674b2a372b4faf2e66b5d34df1"
+    },
+    {
+      "path": "dist/references.js",
+      "sha256": "559fc0c3d0fb1292de37e67eb03471e02c15c3a05b78138b66cc0033bab4683a"
+    },
+    {
+      "path": "dist/replacement-list.css",
+      "sha256": "4be3027413afcf07d7cac808d3623e28a0b357a130369213e09f4eaec9823a05"
+    },
+    {
+      "path": "dist/replacement-list.js",
+      "sha256": "f5b9cb7529bcff2b25fb9aeb0a6c08a98981f208301e43957252e51cab688cf7"
+    },
+    {
+      "path": "dist/shade-reference.png",
+      "sha256": "6c1f032b85e2c40a5dd7bd85d87660cebb8696281722c3c7655b7e111a1b7f0d"
+    },
+    {
+      "path": "dist/style.css",
+      "sha256": "78db42b8e7ec0f87062092e5ca8ec8a1e3be81d958ad0184b2944a4ebde2c328"
+    }
+  ]
+}
